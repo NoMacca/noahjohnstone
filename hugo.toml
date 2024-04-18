@@ -1,0 +1,4 @@
+baseURL = 'https://noahjohnstone.xyz/'
+languageCode = 'en-us'
+title = "Noah's Webpage"
+theme = 'lugo'

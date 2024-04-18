@@ -1,0 +1,9 @@
+---
+title: "Projects"
+date: 2024-04-17T18:15:56+10:00
+# draft: true
+---
+* Projects
+- [[https://seatingplanner.noahjohnstone.xyz][Seating Planner]]
+- [[https://classtimer.noahjohnstone.xyz][Class Timer]]
+- [[https://tic-tac-toe.noahjohnstone.xyz][Tic Tac Toe]]

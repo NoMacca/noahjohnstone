@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Noah&#39;s Webpage</title>
+	<link>https://noahjohnstone.xyz/</link>
+	<description>Recent content on Noah&#39;s Webpage</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Wed, 17 Apr 2024 18:15:56 +1000</lastBuildDate>
+    
+        <atom:link href="https://noahjohnstone.xyz/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Projects</title>
+		<link>https://noahjohnstone.xyz/projects/</link>
+		<pubDate>Wed, 17 Apr 2024 18:15:56 +1000</pubDate>
+		
+		<guid>https://noahjohnstone.xyz/projects/</guid>
+		<description>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Projects
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://seatingplanner.noahjohnstone.xyz&#34;&gt;Seating Planner&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://classtimer.noahjohnstone.xyz&#34;&gt;Class Timer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://tic-tac-toe.noahjohnstone.xyz&#34;&gt;Tic Tac Toe&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
