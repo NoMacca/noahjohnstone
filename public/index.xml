@@ -1,21 +1,91 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
 	<title>Noah&#39;s Webpage</title>
-	<link>https://noahjohnstone.xyz/</link>
+	<link>http://localhost:1313/</link>
 	<description>Recent content on Noah&#39;s Webpage</description>
 	<generator>Hugo -- gohugo.io</generator>
 	<language>en-us</language>
-	<lastBuildDate>Wed, 17 Apr 2024 18:15:56 +1000</lastBuildDate>
+	<lastBuildDate>Thu, 02 May 2024 14:32:51 +1000</lastBuildDate>
     
-        <atom:link href="https://noahjohnstone.xyz/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
 	
 	
 	<item>
+		<title>Resume</title>
+		<link>http://localhost:1313/resume/</link>
+		<pubDate>Thu, 02 May 2024 14:32:51 +1000</pubDate>
+		
+		<guid>http://localhost:1313/resume/</guid>
+		<description>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Noah Johnstone
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;hr&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-2&#34;&gt;
+OBJECTIVE
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;Looking to draw together technical, creative, and communicative skills to drive education innovation. Bringing a positive attitude, motivated by humility, clarity, and respect, in all that I do.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-3&#34;&gt;
+ATTRIBUTES
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Growth Mindset&lt;/strong&gt;: committed to ongoing learning from successes and failures&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Humility&lt;/strong&gt;: cognisant of the complexity of teaching and software development and open to feedback&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resilience&lt;/strong&gt;: demonstrated tenacity, patience, and initiative in challenging environments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analytical&lt;/strong&gt;: striving to incorporate evidence-based practices and engage in regular self-reflection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-4&#34;&gt;
+EDUCATION
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Masters of Teaching (Secondary) (Leading Learning) Teach For Australia: ACU. 2021-22.&lt;/li&gt;
+&lt;li&gt;Bachelor of Advanced Computing (Honours): ANU. Architecture &amp;amp; Systems Speciality 2016-20.&lt;/li&gt;
+&lt;li&gt;Cambridge ESOL Level* CELTA QCF: RMIT. 2014. Qualified ESL teacher.&lt;/li&gt;
+&lt;li&gt;Bachelor of Arts: University of Melbourne. Linguistics Major + Psych Minor. 2012-15.&lt;/li&gt;
+&lt;li&gt;CERT IV In Visual Arts &amp;amp; Contemporary Craft, RMIT. 2012.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-5&#34;&gt;
+RELEVANT WORK HISTORY
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital Technology Teacher, Sophia Mundi (VIC), Jan 2024 - Present.&lt;/li&gt;
+&lt;li&gt;Digital Technology Teacher, Elevation Secondary College (VIC), Jan 2023 – Dec 2023.&lt;/li&gt;
+&lt;li&gt;Digital Tech, Numeracy &amp;amp; English Teacher, Penguin District School (TAS), Jan 2021 – Dec 2022.&lt;/li&gt;
+&lt;li&gt;Club Development Officer (ACT), ANU Sport, Mar 2018 – Sep 2020.&lt;/li&gt;
+&lt;li&gt;Head/Assistant Teacher (ACT), Code Camp, Jan 2018 &amp;amp; 2019.&lt;/li&gt;
+&lt;li&gt;Client and Project Manager for the ANU Tech-Launcher project (ACT), Feb 2018 – Sep 2019.&lt;/li&gt;
+&lt;li&gt;Delivery Driver (ACT), 2016-2017.&lt;/li&gt;
+&lt;li&gt;Various Hospitality (VIC), 2011-2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+	</item>
+	
+	<item>
 		<title>Projects</title>
-		<link>https://noahjohnstone.xyz/projects/</link>
+		<link>http://localhost:1313/projects/</link>
 		<pubDate>Wed, 17 Apr 2024 18:15:56 +1000</pubDate>
 		
-		<guid>https://noahjohnstone.xyz/projects/</guid>
+		<guid>http://localhost:1313/projects/</guid>
 		<description>
 &lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
 &lt;h2 id=&#34;headline-1&#34;&gt;

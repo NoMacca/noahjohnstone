@@ -1,13 +1,31 @@
 body {
-	font-family: sans-serif ;
-	background: #110000 ;
-	color: #ccc ;
+	font-family: sans-serif;
+	background: #f7f7f7; /* very light gray */
+	color: #333; /* dark gray */
+}
+
+a {
+	color: #0066cc; /* blue */
+}
+
+h1, h2, h3 {
+	color: #444; /* slightly lighter dark gray */
+}
+
+.button {
+	background: #007bff; /* blue */
+	color: #fff; /* white */
+}
+
+hr {
+	border-color: #ddd; /* light gray */
 }
 
 main {
 	max-width: 800px ;
 	margin: auto ;
 }
+
 
 img {
 	max-width: 100% ;
