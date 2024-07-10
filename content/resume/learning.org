@@ -1,0 +1,21 @@
+---
+title: "Learning"
+date: 2024-06-28T14:41:35+10:00
+tags: ['learning', 'coding']
+# draft: true
+---
+* Learning
+
+
+** Courses Completed
+
+Completed the following tutorial:
+https://nextjs.org/learn
+
+
+Clojure: The Complete Beginner's Guide
+https://www.udemy.com/course/clojureprogramming/
+
+
+Read majority of the documentation for:
+https://day8.github.io/re-frame/re-frame/
