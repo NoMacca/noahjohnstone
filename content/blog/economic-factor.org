@@ -10,6 +10,9 @@ Economic factors make it hard to do certain things, even if you really want to d
 Another way of putting it is that if you don't get paid for doing something, you're probably not going to continue doing it unless you're passionate, deluded, or mad. If we think an activity is worth doing, we artificially make it profitable.
 
 *** Example where people do not do what is economically viable, but is beneficial
+
+
+Delete this
 An example of an industry that lost its funding through technology is the music industry. In 1999, the online music streaming service Napster was launched. Its rise made it much harder for artists and producers to make money through traditional music sales, which previously relied heavily on physical album purchases and individual song sales. This forced the music industry to seek other revenue streams, such as live performances and merchandise. Currently, market forces mean that most music can be listened to online for free or at a very low cost. This also means that although someone might listen to your music, they are not contributing to your ability to continue making music. Although there are more musicians today, this technological change has led some people to stop making music, or at the very least, struggle to sustain their music careers.
 
 Horse industry -> Cars
@@ -17,6 +20,7 @@ Horse industry -> Cars
 Might be better to have example of people not doing something that is not worthwhile
 
 *** Example were people do bad things for money
+
 There are also activities that nobody really wants to do because of their risk or moral implications, but they are done due to economic incentives. For example, jobs in hazardous conditions such as coal mining or deep-sea fishing can be extremely dangerous, yet people undertake them because they pay well. Similarly, industries like tobacco farming or gambling often thrive despite their negative societal impacts, as they offer substantial financial rewards. These activities highlight how economic incentives can drive individuals to engage in work that they might otherwise avoid due to the associated risks or moral concerns.
 
 *** Making it economically viable and its issues
