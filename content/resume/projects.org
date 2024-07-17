@@ -5,6 +5,36 @@ date: 2024-04-17T18:15:56+10:00
 tags: ['project', 'coding']
 ---
 * Projects
-- [[https://seatingplanner.noahjohnstone.xyz][Seating Planner]]
-- [[https://classtimer.noahjohnstone.xyz][Class Timer]]
-- [[https://tic-tac-toe.noahjohnstone.xyz][Tic Tac Toe]]
+I have been working on personal projects. They are far from perfect, but are helping me learn to program and solve problems. As I improve, I will likely redo some of them.
+
+** [[https://mealplanner.noahjohnstone.xyz/][Meal Planner]]
+- TypeScript
+- React
+- Vite
+- Jotai
+- Shadcn/ui
+
+** [[https://www.yogainmansfield.com.au/][Yoga in Mansfield]]
+- TypeScript
+- React
+- Next.js
+- Sanity
+- TailwindCss
+
+** [[https://seatingplanner.noahjohnstone.xyz][Seating Planner]]
+- ClojureScript
+- Reagent
+- Re-Frame
+- Reitit
+- TailwindCss/Spade/Garden
+
+** [[https://classtimer.noahjohnstone.xyz][Class Timer]]
+- ClojureScript
+- Reagent/Re-Frame
+- Reitit
+- TailwindCss/Bulma
+
+** [[https://tic-tac-toe.noahjohnstone.xyz][Tic Tac Toe]]
+- ClojureScript
+- Reagent/Re-Frame
+- Spade

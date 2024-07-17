@@ -2,7 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/eduction/</loc>
+    <loc>http://localhost:1313/tags/education/</loc>
+    <lastmod>2024-07-08T12:26:35+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/education/</loc>
     <lastmod>2024-07-08T12:26:35+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -14,34 +17,31 @@
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-07-08T12:26:35+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/valued-long-term-memories/</loc>
+    <loc>http://localhost:1313/education/valued-long-term-memories/</loc>
     <lastmod>2024-07-08T12:26:35+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
+    <loc>http://localhost:1313/education/cognitive-model/</loc>
     <lastmod>2024-07-08T12:07:36+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/cognitive-model/</loc>
-    <lastmod>2024-07-08T12:07:36+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/coding/</loc>
+    <loc>http://localhost:1313/resume/</loc>
     <lastmod>2024-06-28T14:41:35+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/learning/</loc>
-    <lastmod>2024-06-28T14:41:35+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/learning/</loc>
-    <lastmod>2024-06-28T14:41:35+10:00</lastmod>
+    <lastmod>2024-05-02T14:32:51+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/resume/</loc>
     <lastmod>2024-05-02T14:32:51+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/resume/</loc>
+    <loc>http://localhost:1313/resume/resume/</loc>
     <lastmod>2024-05-02T14:32:51+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/coding/</loc>
+    <lastmod>2024-04-17T18:15:56+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/project/</loc>
     <lastmod>2024-04-17T18:15:56+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/projects/</loc>
+    <loc>http://localhost:1313/resume/projects/</loc>
     <lastmod>2024-04-17T18:15:56+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
