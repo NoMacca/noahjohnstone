@@ -1,0 +1,52 @@
+---
+title: "Economic Factor"
+date: 2024-07-08T12:07:36+10:00
+tags: ['opinion', 'Lifestyle']
+draft: true
+---
+* Economic Factor
+*** Contention
+Economic factors make it hard to do certain things, even if you really want to do them and sometimes even if they are really beneficial to society.
+Another way of putting it is that if you don't get paid for doing something, you're probably not going to continue doing it unless you're passionate, deluded, or mad. If we think an activity is worth doing, we artificially make it profitable.
+
+*** Example where people do not do what is economically viable, but is beneficial
+An example of an industry that lost its funding through technology is the music industry. In 1999, the online music streaming service Napster was launched. Its rise made it much harder for artists and producers to make money through traditional music sales, which previously relied heavily on physical album purchases and individual song sales. This forced the music industry to seek other revenue streams, such as live performances and merchandise. Currently, market forces mean that most music can be listened to online for free or at a very low cost. This also means that although someone might listen to your music, they are not contributing to your ability to continue making music. Although there are more musicians today, this technological change has led some people to stop making music, or at the very least, struggle to sustain their music careers.
+
+Horse industry -> Cars
+
+Might be better to have example of people not doing something that is not worthwhile
+
+*** Example were people do bad things for money
+There are also activities that nobody really wants to do because of their risk or moral implications, but they are done due to economic incentives. For example, jobs in hazardous conditions such as coal mining or deep-sea fishing can be extremely dangerous, yet people undertake them because they pay well. Similarly, industries like tobacco farming or gambling often thrive despite their negative societal impacts, as they offer substantial financial rewards. These activities highlight how economic incentives can drive individuals to engage in work that they might otherwise avoid due to the associated risks or moral concerns.
+
+*** Making it economically viable and its issues
+If we think an activity is really worth doing, there are mechanisms to support it. For example, a philanthropist might fund a research facility to work on projects that may not yield immediate financial returns but could lead to significant discoveries later. Similarly, a government might grant money to a director to produce a film that would otherwise be unfunded. The military is an endeavour that is considered very important by many countries that it receives a large amount of funding.
+
+While these supports can be highly valuable, they also come with potential issues. They can lead to reliance on external funding, bypassing the market's role in determining value. This centralises the decision of what is deemed valuable into the hands of the wealthy and powerful, rather than the consumer, and can create inefficiencies as individuals and organisations justify their worth in ways that the market might not support. Furthermore, there is a limited pool of such funding, leading to competition among recipients over how valuable they can appear.
+
+Traditions
+
+Bloat - there is a lot of administration wasted deciding on who is valuable.
+
+Markets determine the value of something by many people making decisions together. You can also see this collective decision making and effort through certain things like: wikipedia, upvoting for content (youtube algorithsm), then ends up with content that is highly engaging.
+
+The knowledge that a think can ultimely die is a harcore insentive to work hard and produce something that is valuable.
+
+*** Loss of knowledge and skill
+If there is no economic incentive to engage in an activity, people are unlikely to pursue it, and the skills or knowledge associated with that activity may diminish or disappear. For instance, consider the field of theoretical physics. Without sufficient funding and economic incentives, fewer people might choose to specialise in this area. However, theoretical physicists can be highly valuable to society. Their deep understanding of complex concepts might provide crucial insights when addressing related challenges, such as advancements in technology or solving energy problems. The absence of economic incentives can lead to a reduction in the number of experts in such fields, which might hinder society's ability to solve complex problems in the future. Therefore, even if the immediate economic benefits are not apparent, supporting these activities can be important for long-term societal progress.
+
+*** More and more difficult to be valauble
+As technology and society advance, it is becoming increasingly difficult to be economically valuable in a pure market. News reporters compete with the vast amount of online content, authors contend with an ever-growing archive of historical works, and knowledge workers face competition from increasingly advanced AI and a global economy. Soon, there will be very few activities that are economically viable for humans to pursue. If someone is valuable, they are very talented.
+This shift could lead to a significant loss as the number of humans capable of performing these tasks decreases, resulting in a loss of valuable skills and knowledge. If we, as a society, have less knowledge, we become quite vulnerable.
+
+*** Those that are econonomically valuable are talented or tricksters and cheats
+Advertising can also make some activities economically viable by tricking the market (people) that something is worthwhile. Marketing will use srategoe.
+
+*** What should we do
+To conclude, I think we need to think hard about what activities benefit individuals and society. In a self sustaining sosiety
+
+We need to set up an economic reality were we can embrace new technologies without completely destroying our society.
+
+Tradition of keeping certain knowledgte alive for a number of situations.
+
+Work smarter not harder

@@ -1,0 +1,186 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+	<title>Noah&#39;s Webpage</title>
+	<link>http://localhost:1313/blog/</link>
+	<description>Recent content in Blogs on Noah&#39;s Webpage</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<language>en-us</language>
+	<lastBuildDate>Mon, 08 Jul 2024 12:07:36 +1000</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>There Needs to be a Cognitive Model for Activities.</title>
+		<link>http://localhost:1313/blog/cognitive-model/</link>
+		<pubDate>Mon, 08 Jul 2024 12:07:36 +1000</pubDate>
+		
+		<guid>http://localhost:1313/blog/cognitive-model/</guid>
+		<description>&lt;p&gt;
+The Teacher&amp;#39;s Main Goal is to Change the Student&amp;#39;s Long-Term Memory. To achieve this goal, teachers encourage activities that can facilitate this process, such as recalling information, thinking, writing, discussing, listening, moving, and reading.&lt;/p&gt;
+&lt;p&gt;
+To improve the likelihood that these activities will effectively change students&amp;#39; long-term memories, it&amp;#39;s important to consider how such memories are formed. Key considerations include: Cognitive Load Theory, the limited capacity for new information, circadian rhythms, sufficient sleep, retrieval practice, interleaving, spaced repetition, deliberate practice, attention span, the impact of stress on learning, proper nutrition, and making learning enjoyable and fun.&lt;/p&gt;
+&lt;p&gt;
+In the article  &lt;a href=&#34;https://andymatuschak.org/books/&#34;&gt;&amp;#34;Why Books Don&amp;#39;t Work&amp;#34;&lt;/a&gt;, Andy Matushchak argues that effective learning requires a well-thought-out cognitive model for activities. He contends that traditional methods like reading books or listening to lectures do not align well with how humans form long-term memories. While books may be suitable for certain goals, they are not optimal for memory retention.&lt;/p&gt;
+&lt;p&gt;
+From my own experience, the activities that have significantly helped me form long-term memories include incremental reading, spaced repetition, and interleaving, particularly through the use of software applications like SuperMemo and Anki.&lt;/p&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Resume</title>
+		<link>http://localhost:1313/resume/resume/</link>
+		<pubDate>Thu, 02 May 2024 14:32:51 +1000</pubDate>
+		
+		<guid>http://localhost:1313/resume/resume/</guid>
+		<description>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Noah Johnstone
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;hr&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-2&#34;&gt;
+OBJECTIVE
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;p&gt;Looking to draw together technical, creative, and communicative skills to drive education innovation. Bringing a positive attitude, motivated by humility, clarity, and respect, in all that I do.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-3&#34;&gt;
+ATTRIBUTES
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Growth Mindset&lt;/strong&gt;: committed to ongoing learning from successes and failures&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Humility&lt;/strong&gt;: cognisant of the complexity of teaching and software development and open to feedback&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Resilience&lt;/strong&gt;: demonstrated tenacity, patience, and initiative in challenging environments&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Analytical&lt;/strong&gt;: striving to incorporate evidence-based practices and engage in regular self-reflection&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-4&#34;&gt;
+EDUCATION
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Masters of Teaching (Secondary) (Leading Learning) Teach For Australia: ACU. 2021-22.&lt;/li&gt;
+&lt;li&gt;Bachelor of Advanced Computing (Honours): ANU. Architecture &amp;amp; Systems Speciality 2016-20.&lt;/li&gt;
+&lt;li&gt;Cambridge ESOL Level* CELTA QCF: RMIT. 2014. Qualified ESL teacher.&lt;/li&gt;
+&lt;li&gt;Bachelor of Arts: University of Melbourne. Linguistics Major + Psych Minor. 2012-15.&lt;/li&gt;
+&lt;li&gt;CERT IV In Visual Arts &amp;amp; Contemporary Craft, RMIT. 2012.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-5&#34;&gt;
+RELEVANT WORK HISTORY
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;Digital Technology Teacher, Sophia Mundi (VIC), Jan 2024 - Present.&lt;/li&gt;
+&lt;li&gt;Digital Technology Teacher, Elevation Secondary College (VIC), Jan 2023 – Dec 2023.&lt;/li&gt;
+&lt;li&gt;Digital Tech, Numeracy &amp;amp; English Teacher, Penguin District School (TAS), Jan 2021 – Dec 2022.&lt;/li&gt;
+&lt;li&gt;Club Development Officer (ACT), ANU Sport, Mar 2018 – Sep 2020.&lt;/li&gt;
+&lt;li&gt;Head/Assistant Teacher (ACT), Code Camp, Jan 2018 &amp;amp; 2019.&lt;/li&gt;
+&lt;li&gt;Client and Project Manager for the ANU Tech-Launcher project (ACT), Feb 2018 – Sep 2019.&lt;/li&gt;
+&lt;li&gt;Delivery Driver (ACT), 2016-2017.&lt;/li&gt;
+&lt;li&gt;Various Hospitality (VIC), 2011-2015.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+	</item>
+	
+	<item>
+		<title>Projects</title>
+		<link>http://localhost:1313/resume/projects/</link>
+		<pubDate>Wed, 17 Apr 2024 18:15:56 +1000</pubDate>
+		
+		<guid>http://localhost:1313/resume/projects/</guid>
+		<description>
+&lt;div id=&#34;outline-container-headline-1&#34; class=&#34;outline-2&#34;&gt;
+&lt;h2 id=&#34;headline-1&#34;&gt;
+Projects
+&lt;/h2&gt;
+&lt;div id=&#34;outline-text-headline-1&#34; class=&#34;outline-text-2&#34;&gt;
+&lt;p&gt;I have been working on personal projects. They are far from perfect, but are helping me learn to program and solve problems. As I improve, I will likely redo some of them.&lt;/p&gt;
+&lt;div id=&#34;outline-container-headline-2&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-2&#34;&gt;
+&lt;a href=&#34;https://mealplanner.noahjohnstone.xyz/&#34;&gt;Meal Planner&lt;/a&gt;
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-2&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Vite&lt;/li&gt;
+&lt;li&gt;Jotai&lt;/li&gt;
+&lt;li&gt;Shadcn/ui&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-3&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-3&#34;&gt;
+&lt;a href=&#34;https://www.yogainmansfield.com.au/&#34;&gt;Yoga in Mansfield&lt;/a&gt;
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-3&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;TypeScript&lt;/li&gt;
+&lt;li&gt;React&lt;/li&gt;
+&lt;li&gt;Next.js&lt;/li&gt;
+&lt;li&gt;Sanity&lt;/li&gt;
+&lt;li&gt;TailwindCss&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-4&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-4&#34;&gt;
+&lt;a href=&#34;https://seatingplanner.noahjohnstone.xyz&#34;&gt;Seating Planner&lt;/a&gt;
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-4&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;ClojureScript&lt;/li&gt;
+&lt;li&gt;Reagent&lt;/li&gt;
+&lt;li&gt;Re-Frame&lt;/li&gt;
+&lt;li&gt;Reitit&lt;/li&gt;
+&lt;li&gt;TailwindCss/Spade/Garden&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-5&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-5&#34;&gt;
+&lt;a href=&#34;https://classtimer.noahjohnstone.xyz&#34;&gt;Class Timer&lt;/a&gt;
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-5&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;ClojureScript&lt;/li&gt;
+&lt;li&gt;Reagent/Re-Frame&lt;/li&gt;
+&lt;li&gt;Reitit&lt;/li&gt;
+&lt;li&gt;TailwindCss/Bulma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div id=&#34;outline-container-headline-6&#34; class=&#34;outline-3&#34;&gt;
+&lt;h3 id=&#34;headline-6&#34;&gt;
+&lt;a href=&#34;https://tic-tac-toe.noahjohnstone.xyz&#34;&gt;Tic Tac Toe&lt;/a&gt;
+&lt;/h3&gt;
+&lt;div id=&#34;outline-text-headline-6&#34; class=&#34;outline-text-3&#34;&gt;
+&lt;ul&gt;
+&lt;li&gt;ClojureScript&lt;/li&gt;
+&lt;li&gt;Reagent/Re-Frame&lt;/li&gt;
+&lt;li&gt;Spade&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</description>
+	</item>
+	
+	</channel>
+</rss>
