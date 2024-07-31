@@ -6,18 +6,52 @@ draft: true
 ---
 * Economic Factor
 *** Contention
-Economic factors make it hard to do certain things, even if you really want to do them and sometimes even if they are really beneficial to society.
-Another way of putting it is that if you don't get paid for doing something, you're probably not going to continue doing it unless you're passionate, deluded, or mad. If we think an activity is worth doing, we artificially make it profitable.
+Surviving can be hard work. Every single one of your ancestors has successfully survived long enough to reproduce. So, you probably have a strong instinct to survive.
 
-*** Example where people do not do what is economically viable, but is beneficial
+In order to survive, your behaviours are limited or constrained in a given context.
 
+For your ancestors, they had to spend lots of their time securing food, finding or building shelter, and defending their resources.
 
-Delete this
-An example of an industry that lost its funding through technology is the music industry. In 1999, the online music streaming service Napster was launched. Its rise made it much harder for artists and producers to make money through traditional music sales, which previously relied heavily on physical album purchases and individual song sales. This forced the music industry to seek other revenue streams, such as live performances and merchandise. Currently, market forces mean that most music can be listened to online for free or at a very low cost. This also means that although someone might listen to your music, they are not contributing to your ability to continue making music. Although there are more musicians today, this technological change has led some people to stop making music, or at the very least, struggle to sustain their music careers.
+In modernity, it is a different game. All you have to do is make some money, and you can trade it for all that survival stuff, food, shelter, etc.
 
-Horse industry -> Cars
+You can make money in many ways, including activities unrelated to basic survival, like being a video game streamer. Ultimately, it comes down to convincing people to pay you, which can be done by providing genuine value or through persuasion and manipulation.
 
-Might be better to have example of people not doing something that is not worthwhile
+I'm going to argue that technology is significantly changing the ways we can earn money.
+
+It is encroaching on the activities that used to make us money.
+Additionally, it can encroach on activities that provide real value and can leave us having to make money by doing activities that rely on persuasion and manipulation.
+
+I will argue by focusing solely on making money, we risk losing the long-term value these some activities provide.
+
+I will argue that we need to consider preserving some of the valuable activities because they benefit individuals and society as a whole.
+
+====
+We will start by explaining how technology has influenced economic factors and changed what we can and cannot do.
+
+The market brutally removes everything that is redundand and bloated.
+Really inefficient processures survive because theire is a garuntee of resources.
+
+We will look at some ways people make money that actually causes negative consequences to humans and society.
+
+Then, I will look at how knowledge and skills are lost if there is no economic insentive for them to be learnt and practised.
+
+I then want to explore how it is getting more and more difficult to being valuable enough to actually make money.
+
+Lastly, I want to talk about how we can preserve some activities.
+
+*** Technology has disrupted many industries making peoples knowledge and skills redundant.
+A new piece of technology can mean that a human can do the job better and faster, and may not even be required anymore to do the job.
+
+For instance, the use of industrial robots in automotive assembly lines has transformed the industry. These robots can perform tasks such as welding, painting, and assembling components with high precision and speed, often surpassing the capabilities of human workers.
+
+Once the technology replaces humans in a task, the knowledge will be lost as there is no reason to use it.
+
+For example, how many people do you know who can make a pair of shoes, catch a fish, skin a rabbit,
+
+*** Lots of knowledge relies on complex technology for it to be valuable
+A prompt engineer has to have a large complex langauge model
+A software engineer requires a complex computer and the comple operating system.
+
 
 *** Example were people do bad things for money
 
@@ -46,6 +80,11 @@ This shift could lead to a significant loss as the number of humans capable of p
 *** Those that are econonomically valuable are talented or tricksters and cheats
 Advertising can also make some activities economically viable by tricking the market (people) that something is worthwhile. Marketing will use srategoe.
 
+*** Over service of goods and services
+
+
+
+
 *** What should we do
 To conclude, I think we need to think hard about what activities benefit individuals and society. In a self sustaining sosiety
 
@@ -54,3 +93,5 @@ We need to set up an economic reality were we can embrace new technologies witho
 Tradition of keeping certain knowledgte alive for a number of situations.
 
 Work smarter not harder
+
+If we think an activity is worth doing, we artificially make it profitable.

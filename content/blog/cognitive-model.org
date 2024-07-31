@@ -2,7 +2,7 @@
 title: "There Needs to be a Cognitive Model for Activities."
 date: 2024-07-08T12:07:36+10:00
 tags: ['opinion', 'education']
-# draft: false
+draft: true
 ---
 
 The Teacher's Main Goal is to Change the Student's Long-Term Memory. To achieve this goal, teachers encourage activities that can facilitate this process, such as recalling information, thinking, writing, discussing, listening, moving, and reading.

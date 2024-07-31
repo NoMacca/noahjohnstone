@@ -5,23 +5,8 @@
     <loc>http://localhost:1313/blog/</loc>
     <lastmod>2024-07-08T12:26:35+10:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/education/</loc>
-    <lastmod>2024-07-08T12:26:35+10:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-07-08T12:26:35+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/opinion/</loc>
-    <lastmod>2024-07-08T12:26:35+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2024-07-08T12:26:35+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/valued-long-term-memories/</loc>
-    <lastmod>2024-07-08T12:26:35+10:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/cognitive-model/</loc>
-    <lastmod>2024-07-08T12:07:36+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/learning/</loc>
     <lastmod>2024-05-02T14:32:51+10:00</lastmod>
@@ -30,6 +15,9 @@
     <lastmod>2024-05-02T14:32:51+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/resume/</loc>
+    <lastmod>2024-05-02T14:32:51+10:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-05-02T14:32:51+10:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/coding/</loc>
